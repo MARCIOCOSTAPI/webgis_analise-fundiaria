@@ -1,0 +1,18 @@
+# Core
+streamlit>=1.30.0
+pandas>=2.0.0
+
+# Mapas e visualização geográfica
+folium>=0.14.0
+streamlit-folium>=0.13.0
+
+# Geodados (se estiver usando shapefiles, GeoJSON etc.)
+geopandas>=0.14.0
+shapely>=2.0.0
+
+# Suporte a arquivos e dados
+openpyxl>=3.1.0
+requests>=2.31.0
+
+# Visualização extra (opcional)
+matplotlib>=3.8.0
