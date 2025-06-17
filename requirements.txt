@@ -6,7 +6,7 @@ pandas>=2.0.0
 folium>=0.14.0
 streamlit-folium>=0.13.0
 
-# Geodados (se estiver usando shapefiles, GeoJSON etc.)
+# Geodados
 geopandas>=0.14.0
 shapely>=2.0.0
 
@@ -14,5 +14,8 @@ shapely>=2.0.0
 openpyxl>=3.1.0
 requests>=2.31.0
 
-# Visualização extra (opcional)
+# Visualização extra
 matplotlib>=3.8.0
+
+# Processamento de imagem
+opencv-python-headless>=4.10.0
